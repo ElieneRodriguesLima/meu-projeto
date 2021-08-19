@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2? family = Josefin + Slab: ital, wght @ 1.100; 1.200; 1.300; 1.400; 1.500; 1.600 & family = Poppins: ital, wght @ 0,100; 0,200; 0,300; 0,400; 1,100 & display = trocar ');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+h1 {
+    font-family: Poppins;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background: url(image/azul\ e\ rosa.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
